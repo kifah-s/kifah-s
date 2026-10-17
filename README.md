@@ -155,6 +155,5 @@ public class AboutMe
   <a href="https://github.com/kifah-s?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kifah-s&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 </div>
