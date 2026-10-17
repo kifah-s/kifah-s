@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/black_white_programming.jpg" alt="Developer Working" width="60%" />
+<img src="images/Coding.gif" alt="Developer Working" style="width: 50%; height: 300px; object-fit: cover;" />
 
 <h1>Hi, I'm Kifah Saloum 👋</h1>
 <h3>Full-Stack Web Developer | .NET & Angular</h3>
