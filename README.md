@@ -6,20 +6,8 @@
 <h3>Full-Stack Web Developer | .NET & Angular</h3>
 
 <p>
-  I build modern, scalable web applications with <strong>C#, .NET, Angular, and SQL Server</strong>.
-  I enjoy designing clean APIs, maintainable architectures, and user-focused software.
+"Results-driven <strong> Full-Stack Web Developer </strong> with <strong> 3+ years </strong> of hands-on experience in building scalable, high-performance web applications using <strong> .NET / C# </strong> for backend architecture and <strong> Angular / TypeScript </strong> for modern frontend UI. Proficient in designing <strong> RESTful APIs</strong>, optimizing <strong> SQL databases</strong>, and delivering clean, maintainable code following best software practices."
 </p>
-
-<a href="https://github.com/kifah-s">
-  <img src="https://komarev.com/ghpvc/?username=kifah-s&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<a href="https://github.com/kifah-s?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" />
-</a>
-<a href="https://twitter.com/kifah_sa">
-  <img src="https://img.shields.io/badge/X-kifah__sa-000000?style=flat&logo=x&logoColor=white" alt="X profile" />
-</a>
-
 </div>
 
 ---
@@ -41,6 +29,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
@@ -57,11 +46,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Databases & Tools
+### Tools
 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -71,7 +59,9 @@
 ```csharp
 public class AboutMe
 {
+    public string Name => "kifah saloum";
     public string Role => "Full-Stack Web Developer";
+    public string Experience => "3+ Years";
 
     public string[] Backend =>
     [
@@ -85,43 +75,28 @@ public class AboutMe
         "HTML5", "CSS3", "SCSS", "Bootstrap", "Tailwind CSS"
     ];
 
-    public string[] Databases => ["Microsoft SQL Server", "PostgreSQL"];
+    public string[] Databases =>
+    [
+      "Microsoft SQL Server", "PostgreSQL"
+    ];
+
+    public string[] Tools =>
+    [
+      "Git", "GitHub", "Postman", "Visual Studio", "VS Code"
+    ];
 
     public string[] Practices =>
     [
         "Clean Code", "3-Tier Architecture", "Clean Architecture",
         "Database Design", "Agile / Scrum", "Problem Solving"
     ];
+
+    public string GetCurrentFocus()
+    {
+        return "Building scalable web apps & mastering cloud architecture.";
+    }
 }
 ```
-
-## 🚀 Featured Projects
-
-### 🏛️ Masar Wellness — Unified Government Coordination Platform
-
-Contributed to a platform that supports coordination across treatment, rehabilitation, social reintegration, and empowerment services.
-
-[Visit Masar Wellness](https://masar.gov.ae/home)
-
-### 🤝 Sanad Relay — Accessible Real-Time Video Calls
-
-Contributed to an accessible video-call platform supporting communication between People of Determination, sign-language interpreters, and CDA representatives.
-
-[Visit Sanad Relay](https://sanadrelay.cda.gov.ae/home)
-
-### 🪪 Driving & Vehicle Licensing Department (DVLD) System
-
-A desktop management application built with **C# and .NET Framework**, featuring a 3-Tier Architecture, role-based access control, and SQL Server workflows for tests, licensing, and renewals.
-
-### 📇 Contacts Management System
-
-A multi-interface application built with **C#, SQL Server, and ADO.NET**, with Console and Windows Forms interfaces sharing the same reusable Business Logic and Data Access layers.
-
-### 🏦 Bank Management System
-
-An object-oriented **C++** application for client management, transactions, currency exchange, access control, and activity logging.
-
-🔎 Explore my code and other projects in my [GitHub repositories](https://github.com/kifah-s?tab=repositories).
 
 ## 💼 Experience
 
@@ -174,5 +149,15 @@ An object-oriented **C++** application for client management, transactions, curr
 
 [![GitHub](https://img.shields.io/badge/GitHub-kifah--s-181717?style=flat&logo=github)](https://github.com/kifah-s)
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kifah.saloum.96@gmail.com)
+
+<a href="https://github.com/kifah-s">
+  <img src="https://komarev.com/ghpvc/?username=kifah-s&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/kifah-s?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" />
+</a>
+<a href="https://twitter.com/kifah_sa">
+  <img src="https://img.shields.io/badge/X-kifah__sa-000000?style=flat&logo=x&logoColor=white" alt="X profile" />
+</a>
 
 </div>
