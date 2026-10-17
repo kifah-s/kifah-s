@@ -10,8 +10,6 @@
 </p>
 </div>
 
-<!-- --- -->
-
 ## 👨‍💻 About Me
 
 - 💼 Full-Stack Web Developer with professional experience building web applications using **.NET / C# and Angular**.
