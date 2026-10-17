@@ -10,7 +10,7 @@
 </p>
 </div>
 
----
+<!-- --- -->
 
 ## 👨‍💻 About Me
 
@@ -120,14 +120,6 @@ public class AboutMe
 
 </div>
 
-<details>
-  <summary><strong>More profile details</strong></summary>
-  <br>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kifah-s&theme=nord_dark" alt="GitHub profile summary" />
-  </div>
-</details>
-
 ## 🔄 The Developer Cycle
 
 <div align="center">
@@ -147,17 +139,24 @@ public class AboutMe
 
 **Feel free to explore my repositories and connect with me.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-kifah--s-181717?style=flat&logo=github)](https://github.com/kifah-s)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kifah.saloum.96@gmail.com)
+### 📬 Connect with Me
 
-<a href="https://github.com/kifah-s">
+<p align="center">
+  <a href="https://linkedin.com/in/kifah-saloum">
+    <img src="https://img.shields.io/badge/LinkedIn-Kifah_Saloum-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kifah-s">
+    <img src="https://img.shields.io/badge/GitHub-kifah--s-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:kifah.saloum.96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kifah-s?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=kifah-s&style=flat&color=orange&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<a href="https://github.com/kifah-s?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" />
-</a>
-<a href="https://twitter.com/kifah_sa">
-  <img src="https://img.shields.io/badge/X-kifah__sa-000000?style=flat&logo=x&logoColor=white" alt="X profile" />
-</a>
-
+</p>
 </div>
