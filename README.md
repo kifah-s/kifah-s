@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/Coding.gif" alt="Developer Working" style="width: 50%; height: 300px; object-fit: cover;" />
+<img src="images/Coding.gif" alt="Developer Working" style="width: 50%; object-fit: cover;" />
 
 <h1>Hi, I'm Kifah Saloum 👋</h1>
 <h3>Full-Stack Web Developer | .NET & Angular</h3>
@@ -93,7 +93,7 @@ public class AboutMe
 
     public string GetCurrentFocus()
     {
-        return "Building scalable web apps & mastering cloud architecture.";
+        return "Building high-performance, scalable web applications and delivering robust software solutions.";
     }
 }
 ```
