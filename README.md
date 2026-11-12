@@ -108,11 +108,11 @@ public class AboutMe
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<!-- 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kifah-s&show_icons=true&hide_border=true&theme=nord&rank_icon=github" alt="Kifah's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifah-s&layout=compact&hide_border=true&theme=nord" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kifah-s&layout=compact&hide_border=true&theme=nord" alt="Most used languages" /> -->
 
-<br>
+<!-- <br> -->
 
 <img src="https://streak-stats.demolab.com?user=kifah-s&theme=nord&hide_border=true" alt="GitHub streak stats" />
 
